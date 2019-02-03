@@ -5,6 +5,7 @@
 'data': [
     'views/book_view.xml',
     'security/library_security.xml',
+    'security/ir.model.access.csv',
 ],
 'depends': ['library_app'],
 'application': False,
