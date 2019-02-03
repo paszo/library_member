@@ -9,6 +9,6 @@
     'views/library_menu.xml',
     'views/member_view.xml',
 ],
-'depends': ['library_app'],
+'depends': ['library_app', 'mail'],
 'application': False,
 }
