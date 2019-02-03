@@ -7,6 +7,7 @@
     'security/library_security.xml',
     'security/ir.model.access.csv',
     'views/library_menu.xml',
+    'views/member_view.xml',
 ],
 'depends': ['library_app'],
 'application': False,
