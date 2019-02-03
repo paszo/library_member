@@ -8,6 +8,7 @@
     'security/ir.model.access.csv',
     'views/library_menu.xml',
     'views/member_view.xml',
+    'views/book_list_template.xml',
 ],
 'depends': ['library_app', 'mail'],
 'application': False,
